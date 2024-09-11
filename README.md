@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DOH-rsh0303
-- 👀 I’m interested in sailing.
 - 🌱 I’m currently learning github.
-- 💞️ I’m looking to collaborate on sql code.
 - 📫 How to reach me steve.holmes@doh.wa.gov
 - this read.me file is changed.
 <!---
